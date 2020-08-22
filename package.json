@@ -1,0 +1,19 @@
+{
+  "name": "text-analisys-ml",
+  "version": "1.0.0",
+  "description": "An simple analisys text prediction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Feitoza",
+  "license": "ISC",
+  "dependencies": {
+    "@std/esm": "^0.26.0",
+    "babel": "^6.23.0",
+    "bayes": "^1.0.0",
+    "csv-writer": "^1.6.0",
+    "esm": "^3.2.25",
+    "neat-csv": "^5.2.0"
+  }
+}
